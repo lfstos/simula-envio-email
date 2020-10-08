@@ -29,7 +29,7 @@ SECRET_KEY = ')(qpv1o*(sc%y$q4u(6q6+#xhqz3n$!)q^+ah&fia^s0#h(8#='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['simula-envia-email.herokuapp.com']
 
 
 # Application definition
